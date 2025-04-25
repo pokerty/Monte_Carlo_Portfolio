@@ -2,6 +2,8 @@
 
 This app was made by me to run Monte Carlo simulatios to analyze potential portfolio performance based on historical stock data, and visualize the results
 
+Run it online at https://monte-carlo-portfolio-hp.streamlit.app/
+
 ## Features
 
 *   Select multiple stock tickers.
